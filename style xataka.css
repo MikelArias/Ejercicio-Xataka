@@ -1,0 +1,36 @@
+
+h1 {
+    color: red;
+    text-align: center;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 20px;
+    padding: 30px;
+    border-width: 3px;
+    
+}
+p{
+    color: #0000ff;
+    text-align: left;
+}
+body{
+    background-color: antiquewhite;
+}
+h2{
+    color: red;
+    text-align: center;
+    border-style: solid;
+    border-color: grey;
+    border-left: 20px;
+    border-right: 20px;
+    padding: 20px;
+    border-width: 3px;
+}
+mark {
+    background-color: yellow;
+    color: black;
+  }
+  p2{
+    text-align:right;
+    color: #0000ff;
+    }
